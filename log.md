@@ -9,4 +9,6 @@
 
 **Thoughts:** Today went faster than usual.
 
-**Link to work:** [Miwok App](https://github.com/yummywakame/ud839_Miwok)
+**Links to work:** 
+1. [Miwok App](https://github.com/yummywakame/ud839_Miwok)
+2. [ViewPager Sample App](https://github.com/yummywakame/ud839_ViewPager_Example)

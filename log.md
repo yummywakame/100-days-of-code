@@ -12,3 +12,13 @@
 **Links to work:** 
 1. [Miwok App](https://github.com/yummywakame/ud839_Miwok)
 2. [ViewPager Sample App](https://github.com/yummywakame/ud839_ViewPager_Example)
+
+### Day 2: June 28, 2018
+
+**Today's Progress**: Learned how to change my app from using separate activities to swipable fragments. Also learned how Git works.
+
+**Thoughts:** Got into the swing. Feeling more focussed at night.
+
+**Links to work:** 
+1. [Miwok App](https://github.com/yummywakame/ud839_Miwok)
+2. [Git Tutorial](https://www.youtube.com/watch?v=41tsyReTloA)

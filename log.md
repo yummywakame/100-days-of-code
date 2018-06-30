@@ -22,3 +22,12 @@
 **Links to work:** 
 1. [Miwok App](https://github.com/yummywakame/ud839_Miwok)
 2. [Git Tutorial](https://www.youtube.com/watch?v=41tsyReTloA)
+
+### Day 3: June 29, 2018
+
+**Today's Progress**: Added tabs to my Miwok app. Started coding the structure for my Visit Ometepe app
+
+**Thoughts:** Battled for hours with errors because I was using outdated source code.
+
+**Link to work:** 
+- [Miwok App](https://github.com/yummywakame/ud839_Miwok)

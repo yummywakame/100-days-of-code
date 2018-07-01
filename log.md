@@ -25,9 +25,16 @@
 
 ### Day 3: June 29, 2018
 
-**Today's Progress**: Added tabs to my Miwok app. Started coding the structure for my Visit Ometepe app
+**Today's Progress**: Added tabs to my Miwok app. Started coding the structure for my Explore Ometepe app
 
 **Thoughts:** Battled for hours with errors because I was using outdated source code.
 
 **Link to work:** 
 - [Miwok App](https://github.com/yummywakame/ud839_Miwok)
+
+### Day 4: June 30, 2018
+
+**Today's Progress**: Brain feels overworked and tired 😴 Really want to take a day off. Picked out the colour scheme for the tour guide app, added the icons and coded a bare-bones structure. Feels like it took way waaay too long to do such simple things but hopefully, with practice I'll get faster at this.
+
+**Link to work:** 
+- [Explore Ometepe App](https://github.com/yummywakame/ExploreOmetepe)

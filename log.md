@@ -38,3 +38,10 @@
 
 **Link to work:** 
 - [Explore Ometepe App](https://github.com/yummywakame/ExploreOmetepe)
+
+### Day 5: July 1, 2018
+
+**Today's Progress**: Added nav icons to the tour guide app, added all venue images in every dpi & started adding venues to strings.xml. Design needs loads of refinement!
+
+**Link to work:** 
+- [Explore Ometepe App](https://github.com/yummywakame/ExploreOmetepe)

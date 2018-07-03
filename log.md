@@ -45,3 +45,10 @@
 
 **Link to work:** 
 - [Explore Ometepe App](https://github.com/yummywakame/ExploreOmetepe)
+
+### Day 6: July 2, 2018
+
+**Today's Progress**: developing the tour guide app. Learned how to convert my ListView to a RecyclerView today thanks to TheBaileyBrew's handy demo (https://github.com/TheBaileyBrew/Angry_Nerds_Demo_Recycler) then adapted it to use fragments. Happy with today's progress!
+
+**Link to work:** 
+- [Explore Ometepe App](https://github.com/yummywakame/ExploreOmetepe)

@@ -52,3 +52,14 @@
 
 **Link to work:** 
 - [Explore Ometepe App](https://github.com/yummywakame/ExploreOmetepe)
+
+### Day 7: July 3, 2018
+
+**Today's Progress**: Applying Material Design to the tour guide for #udacity #abnd. Running out of time!  Deadline on Friday! Also completed my first #Java #Kata on @codewars 👩‍💻
+
+**Links to work:** 
+- [Screenshot](https://snag.gy/G46VW7.jpg)
+- [Explore Ometepe App](https://github.com/yummywakame/ExploreOmetepe)
+
+
+

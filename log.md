@@ -61,5 +61,8 @@
 - [Screenshot](https://snag.gy/G46VW7.jpg)
 - [Explore Ometepe App](https://github.com/yummywakame/ExploreOmetepe)
 
+### Day 8: July 4, 2018
 
+**Today's Progress**: < 2 days to deadline for the tour guide app.  When a venue in the RecyclerView is selected it now goes to a new activity  & passes the vars across without error. Had fun on the design for the new activity!
 
+- [Explore Ometepe App](https://github.com/yummywakame/ExploreOmetepe)

@@ -66,3 +66,11 @@
 **Today's Progress**: < 2 days to deadline for the tour guide app.  When a venue in the RecyclerView is selected it now goes to a new activity  & passes the vars across without error. Had fun on the design for the new activity!
 
 - [Explore Ometepe App](https://github.com/yummywakame/ExploreOmetepe)
+
+### Day 9: July 5, 2018
+
+**Today's Progress**: Working through the night on Project 5 due tomorrow. Battling with infuriating glitches allll dayyyy. Not even close to complete. Couldn't sleep if I tried. Been dreaming about bugs and code for days.
+
+- [Explore Ometepe App](https://github.com/yummywakame/ExploreOmetepe)
+
+

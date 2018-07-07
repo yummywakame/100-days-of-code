@@ -73,4 +73,8 @@
 
 - [Explore Ometepe App](https://github.com/yummywakame/ExploreOmetepe)
 
+### Day 10: July 6, 2018
 
+**Today's Progress**:👩‍💻#100DaysOfCode D10: Submitted my app to #Udacity 2 mins before deadline! Big love to @TheBaileyBrew and @xhsu for their above & beyond help today!! Tonight I will celebrate by SLEEPING. 😴 #pleasenomorecodingdreamsIreallyneedabreak
+
+- [Explore Ometepe App](https://github.com/yummywakame/ExploreOmetepe)

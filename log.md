@@ -78,3 +78,21 @@
 **Today's Progress**:👩‍💻#100DaysOfCode D10: Submitted my app to #Udacity 2 mins before deadline! Big love to @TheBaileyBrew and @xhsu for their above & beyond help today!! Tonight I will celebrate by SLEEPING. 😴 #pleasenomorecodingdreamsIreallyneedabreak
 
 - [Explore Ometepe App](https://github.com/yummywakame/ExploreOmetepe)
+
+### Day 11: July 7, 2018
+
+**Today's Progress**: Got the first "Requires Changes" feedback on my 5th Android project submission for #Udacity, ruining my perfect streak over really stupid stuff. Booooo!!!!! 😭 Fixing those this weekend. 
+
+- [Explore Ometepe App](https://github.com/yummywakame/ExploreOmetepe)
+
+### Day 12: July 8, 2018
+
+**Today's Progress**: implemented required changes to my Explore Ometepe Tour Guide app for the #Udacity #Android Basics Nanodegree which passed review!!! Here's a brief walkthrough video clip https://youtu.be/pkDWblSWlmg.
+
+- [Explore Ometepe App](https://github.com/yummywakame/ExploreOmetepe)
+
+### Day 13: July 9, 2018
+
+**Today's Progress**: Starting lessons on JSON parsing, opening a whole new world of possibilities! I was nervous about the next project but feeling inspired to create my news app after seeing @TheBaileyBrew's technical masterpiece today! 
+
+

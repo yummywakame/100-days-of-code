@@ -95,4 +95,6 @@
 
 **Today's Progress**: Starting lessons on JSON parsing, opening a whole new world of possibilities! I was nervous about the next project but feeling inspired to create my news app after seeing @TheBaileyBrew's technical masterpiece today! 
 
+### Day 14: July 10, 2018
 
+** Today's Progress**: Applied some recommendations from the #Udacity project reviewer to my Tour Guide app to improve it. I do this with all projects because I like to harvest their shiny organs to use in other projects to save time. 

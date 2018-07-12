@@ -97,4 +97,8 @@
 
 ### Day 14: July 10, 2018
 
-** Today's Progress**: Applied some recommendations from the #Udacity project reviewer to my Tour Guide app to improve it. I do this with all projects because I like to harvest their shiny organs to use in other projects to save time. 
+**Today's Progress**: Applied some recommendations from the #Udacity project reviewer to my Tour Guide app to improve it. I do this with all projects because I like to harvest their shiny organs to use in other projects to save time. 
+
+### Day 15: July 11, 2018
+
+**Today's Progress**: D15 #100DaysOfCode 👩‍💻 imported the Earthquake app from #udacity's repo. Also tried to create a custom Java class for my tour guide's database so that I can use only one FragmentAdapter, and have tabs search by category.  Still battling with it thanks to context().

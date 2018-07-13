@@ -101,4 +101,8 @@
 
 ### Day 15: July 11, 2018
 
-**Today's Progress**: D15 #100DaysOfCode 👩‍💻 imported the Earthquake app from #udacity's repo. Also tried to create a custom Java class for my tour guide's database so that I can use only one FragmentAdapter, and have tabs search by category.  Still battling with it thanks to context().
+**Today's Progress**: imported the Earthquake app from #udacity's repo. Also tried to create a custom Java class for my tour guide's database so that I can use only one FragmentAdapter, and have tabs search by category.  Still battling with it thanks to context().
+
+### Day 16: July 12, 2018 ###
+
+**Today's Progress**: Quite a bit behind this week due to visiting family in the hospital and other stuff going on, but managed to squeeze in an hour tonight to learn a bit more about JSON.  Plan to forge ahead Friday night! Since13 is my lucky number :)

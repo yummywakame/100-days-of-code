@@ -107,10 +107,10 @@
 
 **Today's Progress**: Quite a bit behind this week due to visiting family in the hospital and other stuff going on, but managed to squeeze in an hour tonight to learn a bit more about JSON.  Plan to forge ahead Friday night! Since13 is my lucky number :)
 
-### Day 17: July 14, 2018 ###
+### Day 17: July 13, 2018 ###
 
 **Today's Progress**: Completed a whole chapter on JSON Parsing on the Android Basics Nanodegree
 
-### Day 18: July 15, 2018 ###
+### Day 18: July 14, 2018 ###
 
 **Today's Progress**: Completed the chapter on Java: Control Flow and Conditionals and moved on to HTTP Networking. Also had fun helping fellow students today during the Study Jam!

@@ -114,3 +114,7 @@
 ### Day 18: July 14, 2018 ###
 
 **Today's Progress**: Completed the chapter on Java: Control Flow and Conditionals and moved on to HTTP Networking. Also had fun helping fellow students today during the Study Jam!
+
+### Day 19: July 15, 2018 ###
+
+**Today's Progress**: Spent the day learning about HTTP Networking for Android, requesting permissions, HTTP request method types, HTTP response codes and StringBuilder. 

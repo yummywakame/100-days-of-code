@@ -117,4 +117,8 @@
 
 ### Day 19: July 15, 2018 ###
 
-**Today's Progress**: Spent the day learning about HTTP Networking for Android, requesting permissions, HTTP request method types, HTTP response codes and StringBuilder. 
+**Today's Progress**: Spent the day learning about HTTP Networking for Android, requesting permissions, HTTP request method types, HTTP response codes and StringBuilder.
+
+### Day 20: July 16, 2018 ###
+
+**Today's Progress**: Galloped through about 40 chapters today that included handling HTTP Exceptions, AsyncTask, threads and parallelism... Only a few more chapters to go until I'm ready to start developing the News App.
